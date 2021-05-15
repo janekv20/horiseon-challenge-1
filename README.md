@@ -17,8 +17,9 @@ https://janekv20.github.io/horiseon-challenge-1/
 ##GitHub Repository
 https://github.com/janekv20/horiseon-challenge-1
 
-##Screenshot of Deployment
-
+##Screenshots of Deployment
+<img src="https://github.com/janekv20/horiseon-challenge-1/blob/main/Screenshots/Horiseon%20Header%20and%20Hero.png">
+<img src="https://github.com/janekv20/horiseon-challenge-1/blob/main/Screenshots/Horiseon%20Content-Benefits%20and%20Footer.png">
 
 
 ##Contribution
